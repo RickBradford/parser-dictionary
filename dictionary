@@ -1,3 +1,12 @@
+-- This is the raw dictionary for use with the Parser
+* Feel free to add comments -- lines without the ‘equals sign’ will be stripped out later
+* No need to check for duplicates; they will be automatically stripped out
+* No need to maintain order, that will be automatically dealt with
+* Suggestions:
+         1. organise words into categories
+         2. create your own area inside the document
+         3. just edit as you please (ie none of the above)
+
 (ending particle showing surprise)=เนี่ย
 (polite particle)=ฮะ
 1 p.m.=บ่ายโมง
